@@ -8,6 +8,6 @@ Note - This is for educational Purpose only, please don't use it for any malprac
 
 Here are some snippets from the project:
 
-![Screenshot_1](Screenshot(30).png)
+![Screenshot_1](SS-1.png)
 
-![Screenshot_2](Screenshot(32).png)
+![Screenshot_2](SS-2.png)
